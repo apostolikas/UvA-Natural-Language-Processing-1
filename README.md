@@ -13,4 +13,4 @@ Practical 2 - Representing Sentences with Neural Models
 
 ## Copyright
 
-This project is distributed under the MIT license and it was developed as part of the course Natural Language Processing 1 at the University of Amsterdam. If you are a student at UvA, please first make sure to consult [this page](https://student.uva.nl/en/topics/plagiarism-and-fraud).
+This project was developed as part of the course Natural Language Processing 1 at the University of Amsterdam. If you are a student at UvA, please first make sure to consult [this page](https://student.uva.nl/en/topics/plagiarism-and-fraud).
